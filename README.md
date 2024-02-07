@@ -41,5 +41,5 @@ This dataset is provided under the [Creative Commons Zero v1.0 Universal](https:
 ## Acknowledgments
 
 - Special thanks to all the space agencies and organizations involved in space exploration for their contributions to human knowledge and understanding of the universe.
-- Image credit: [Unsplash](https://planetary-science.org) for the cover photo.
+- Image credit: [planetary-science](https://planetary-science.org) for the cover photo.
 
